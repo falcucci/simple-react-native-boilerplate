@@ -3,39 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jar="/home/falcucci/.android/build-cache/fccf2c4ed4484e0c84b12d86f6a27018c85e2f14/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_5880bc32566996696406d348882d594d80f9e070.jar" />
+        revision="27.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_0d5364d918d9db8d43197540502a4aa11897aead.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a1abad9a7e5a26c72f9f3c7523c9497551b3f415.jar" />
+        revision="27.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_87759038c33a3a45a28cd29691c7e45b9ad14cc9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/home/falcucci/.android/build-cache/525d4cc032a707b3ce4a161b6c8e9e85c92f841b/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b80753537b5b72c0a72587b344c3760280d79f4f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5df2041ee8add70d03a750b5fa09a6b9e85d7c79.jar" />
+        revision="27.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_658efde00f95cb87a8c7eac717b5e554ab61a396.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,21 +48,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/falcucci/.android/build-cache/5edfaf683a5468cdd86c2ed4a216c17b64f79814/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_04585211de4553b5e11658b31548e3d3e8af46fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.android/build-cache/ec6693f39e8d4c9e477599eb0df681993ce769e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_dbb39c9b72982e4961ca1feacce198b0b2ead571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7b735f155fcb07dc7daa27a94b3a0d8da3baf35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
         <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e6407b79739b4a7789a5c221fbbfa1cefbff976c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_7b94791fba98a91f427d70255855a9e980bcfa25.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,12 +102,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_44cffff6ef68f88e4931bd4c3f570e8f632d52bc.jar" />
+        revision="27.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_b2fec0842c6380b518c1d1db13ce8e0bb2ea218f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.android/build-cache/3f0a6216c2cd5577c8436e8fd5b75601e60bfda2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_bc10f5ea27482f18924528e006db8c04f45451c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.android/build-cache/64b48a670241f8d4afd067193bf17b8622c4c992/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_ea3fd841aaef0bc93c5c8a75b1865d71a5e888c1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,15 +138,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_6fd3168e0f9576f5192d2db2d3a12ea7e2e9ba5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/falcucci/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -129,30 +147,75 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_2daa7980a7b6344696d02601f3b7cd8b993c5f22.jar" />
+        revision="27.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_202b36ede0ff30fa62b0bd407bf4e0f7b0068d1d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jar="/home/falcucci/.android/build-cache/4e068b103b57cc3f0e8d398ca1c809b8da865639/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e05f26685ba61b3852a35b8345c03d55224cbb14.jar" />
+        revision="27.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_fee5ce99ed53bbe77ef65122e01a9d6c4656e480.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/home/falcucci/.android/build-cache/bf3c2b946187b04c34d20a89e06846476bd845de/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f5ef76ee215b60dbea471014bad85e12298538f2.jar" />
+        revision="27.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_c427a732010a01fd418963c11e0e11c767ced68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.android/build-cache/046b820a99a64eab88d2034a96e67d48c14ccea4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_175765c13d4d0963dbc7cff5dba2aef48ef311b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.android/build-cache/5edfaf683a5468cdd86c2ed4a216c17b64f79814/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_8dca4165347f74c3f654a014515fdb03dabe9ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e6407b79739b4a7789a5c221fbbfa1cefbff976c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_caf94413fc40a52c7e47d8155a4a219359a7106d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_04b23ece7d12bc980e20d3c6db1b7841d637c25b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,30 +228,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/home/falcucci/.android/build-cache/046b820a99a64eab88d2034a96e67d48c14ccea4/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_760bb7fef44fc9594a8f78bfcb9ea1ae30566daa.jar" />
+        revision="27.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e13062af6999ae4cb9924ef5fbd447b760637255.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/home/falcucci/.android/build-cache/fff0d61bd04ad0f1da9e723c3e6423bea15f2faf/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
+        revision="27.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_e67891bb2f16eb5c3d09f63522f908f717b353ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_112772b314b429dc92098e922dbd86709fd33a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/falcucci/.android/build-cache/601c6600ab48f770d3ff23d06b34b5b112f3138f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a3a0d4246ce97d2bb86f60fb2460115a130c07d7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e29d9f165de2d7dc434d487a333a80268dd3d29b.jar" />
+        <dex dex="/home/falcucci/for-me/simple-react-native-boilerplate/android/app/build/intermediates/pre-dexed/debug/classes_617fd7cc914c037faa7560120cf0428d5de28f07.jar" />
     </item>
 
 </items>
