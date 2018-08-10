@@ -13,7 +13,8 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "test": "jest",
-    "publish": "curl -LsS https://raw.githubusercontent.com/falcucci/release-me/master/release.sh | bash -s"
+    "publish": "curl -LsS https://raw.githubusercontent.com/falcucci/release-me/master/release.sh | bash -s",
+    "build": "curl -LsS https://raw.githubusercontent.com/falcucci/release-me/master/apk-builder.sh | bash -s"
   },
   "jest": {
     "preset": "react-native"
