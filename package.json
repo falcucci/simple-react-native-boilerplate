@@ -12,7 +12,8 @@
     "start": "react-native start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "test": "jest"
+    "test": "jest",
+    "publish": "curl -LsS https://raw.githubusercontent.com/falcucci/release-me/master/release.sh | bash -s"
   },
   "jest": {
     "preset": "react-native"
