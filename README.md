@@ -1,5 +1,5 @@
 ## What is included?
-TODO
+* [react-native-config](https://github.com/luggit/react-native-config)
 
 ## Get started
 
