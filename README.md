@@ -1,5 +1,6 @@
 ## What is included?
 * [react-native-config](https://github.com/luggit/react-native-config)
+* [release-me](https://github.com/falcucci/release-me)
 
 ## Get started
 
